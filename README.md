@@ -8,9 +8,9 @@ I am an AI researcher who is passionate about developing machine learning and de
    -  Deep Learning
    -  Computer Vision
    -  Explainable AI(XAI)
-
-- My Personal website is: [Zahra-Asghari](https://zahra-asghari.github.io/)
-- 📫 You can reach me by my [email](mailto:zasghari.606@gmail.com)
+## Contact Me
+ My website is: [Zahra-Asghari](https://zahra-asghari.github.io/)<br>
+ 📫 You can reach me by my [email](mailto:zasghari.606@gmail.com)
   
 <h2> 🔧 &nbsp;Languages and Tools</h2>
 <p align="left">
