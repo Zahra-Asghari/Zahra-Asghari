@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/Zahra-Asghari/sitemap.xml
+Sitemap: https://github.com/Zahra-Asghari/Zahra-Asghari/sitemap.xml
