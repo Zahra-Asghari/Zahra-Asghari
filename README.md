@@ -20,7 +20,7 @@ I am an AI researcher passionate about developing machine learning and deep lear
    -  Explainable AI(XAI)
 ## Contact Me
  My website is: [Zahra-Asghari](https://zahra-asghari.github.io/)<br>
- 📫 You can reach me by my [email](mailto:zasghari.606@gmail.com)
+ 📫 You can reach me by my [email](mailto:zahra.asghari-varzaneh@mau.se)
   
 <h2> 🔧 &nbsp;Languages and Tools</h2>
 <p align="left">
